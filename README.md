@@ -23,7 +23,6 @@ Repository Structure
 Key Results
 Test PeriodCorrelation (r)P-ValueStatistical SignificanceCurrent Month0.0000.935No3-Month Lag0.0970.525No6-Month Lag0.2160.169No
 
-![CPI vs Claims Correlation](visualizations/cpi_claims_correlation.png)
 How to Reproduce This Analysis
 Prerequisites
 
