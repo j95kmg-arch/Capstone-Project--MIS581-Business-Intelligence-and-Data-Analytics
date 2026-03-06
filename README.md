@@ -14,12 +14,18 @@ Software: R/RStudio for statistical analysis, Python for data generation
 
 Repository Structure
 ├── code/
-│   ├── synthetic_data_generation.py    # Python script for creating synthetic claims data
-│   └── correlation_analysis.R          # R script for statistical testing and visualization
+│   ├── synthetic_data_generation.py   
+# Python script for creating synthetic claims data
+│   └── correlation_analysis.R          
+# R script for statistical testing and visualization
 ├── visualizations/
-│   ├── cpi_claims_correlation.png      # Primary scatter plot results
-│   └── lag_analysis_summary.png        # Summary table of lag tests
-└── README.md                           # This file
+│   ├── cpi_claims_correlation.png     
+# Primary scatter plot results
+│   └── lag_analysis_summary.png       
+# Summary table of lag tests
+└── README.md                          
+# This file
+
 Key Results
 Test PeriodCorrelation (r)P-ValueStatistical SignificanceCurrent Month0.0000.935No3-Month Lag0.0970.525No6-Month Lag0.2160.169No
 
