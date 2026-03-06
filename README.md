@@ -22,6 +22,8 @@ Repository Structure
 └── README.md                           # This file
 Key Results
 Test PeriodCorrelation (r)P-ValueStatistical SignificanceCurrent Month0.0000.935No3-Month Lag0.0970.525No6-Month Lag0.2160.169No
+
+![CPI vs Claims Correlation](visualizations/cpi_claims_correlation.png)
 How to Reproduce This Analysis
 Prerequisites
 
@@ -45,5 +47,6 @@ Academic Context
 This research addresses a significant gap in behavioral economics and insurance literature by providing the first systematic examination of inflation's impact on claim frequency patterns. The null findings contribute valuable evidence for insurance industry operational planning and actuarial model development.
 
 Date: February 2026
-License
-This project is submitted as academic work for educational purposes. Code and methodology are available for academic and research use.
+
+## License
+Academic research project - code available for educational and research purposes.
